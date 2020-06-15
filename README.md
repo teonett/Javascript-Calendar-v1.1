@@ -1,7 +1,7 @@
 # Javascript Calendar 
 
 
-<img src="https://github.com/teonett/Javascript-Calendar-v1.1/blob/master/img/preview.png">
+<img src="https://github.com/teonett/Javascript-Calendar-v1.1/blob/master/img/Preview.png">
 
 <h4>Copyright (C) 2020 Jose Teotonio (teonett@gmail.com)</h4>
 
